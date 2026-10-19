@@ -1,0 +1,6 @@
+url: https://github.com/Cjrrrrrrrr/dsh-plugins/tree/main/packages/dsh-karing
+name: Cjrrrrrrrr/dsh-plugins#dsh-karing
+category: tools
+description:
+  en: 'Drives a local Karing installation from DeepSeek Harness without its GUI: seven tools to start and stop the core, switch split-tunnel mode by repointing the system proxy at one of the three mixed inbounds Karing opens (under a second, no core restart), rotate exit nodes, and search or fetch pages through the proxy. Windows only.'
+  zh: '不打开 Karing 桌面版也能用它：七个工具起停内核；切换分流模式只把系统代理指向 Karing 三个常驻入站中的另一个，一秒内完成且不重启内核；另可轮换出口节点、经代理做多引擎检索与网页抓取。仅 Windows。'
